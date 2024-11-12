@@ -1,3 +1,3 @@
-module github.com/mikelmadina/mmu-hugo-blox
+module github.com/mikelmadina/hugo-blox-mmu
 
 go 1.19
